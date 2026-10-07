@@ -1,0 +1,16 @@
+# Python and Virtual Environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Databases
+*.db
+*.sqlite3
+
+# Generated files and caches
+generated/
+.pytest_cache/
+.DS_Store
